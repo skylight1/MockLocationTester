@@ -111,12 +111,15 @@ public final class LocationUtils {
     	40.742520,
     	40.742139,
     	40.742139,
-    	40.742520,
-    	40.742520,
-    	40.741976,
-    	40.741976,
-    	40.741829,
-    	40.741829
+	40.7806,
+	40.7806,
+	40.7806,
+	40.7806,
+	40.7806,
+	40.7806,
+	40.7806,
+	40.7806,
+	40.7806
     };
 
     // An array of longitudes for constructing test data
@@ -133,17 +136,20 @@ public final class LocationUtils {
 */
     public static final double[] WAYPOINTS_LNG = {
     	-73.930331,
-    	-73.930331,
+	-73.930331,
     	-73.932113,
     	-73.932113,
     	-73.935333,
     	-73.935333,
-    	-73.932113,
-    	-73.932113,
-    	-73.930331,
-    	-73.930331,
-    	-73.925611,
-    	-73.925611
+	-73.9813,
+	-73.9813,
+	-73.9813,
+	-73.9813,
+	-73.9813,
+	-73.9813,
+	-73.9813,
+	-73.9813,
+	-73.9813
     };
     // An array of accuracy values for constructing test data
     public static final float[] WAYPOINTS_ACCURACY = {
@@ -158,7 +164,10 @@ public final class LocationUtils {
         3.0f,
         3.12f,
         3.5f,
-        3.7f
+        3.7f,
+	3.5f,
+	3.0f,
+	3.12f
     };
 
     // Mark the broadcast Intent with an action
